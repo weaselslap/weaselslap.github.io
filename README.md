@@ -1,2 +1,0 @@
-# weaselslap.github.io
-readME
