@@ -1,10 +1,10 @@
 ## Welcome to weaselslap
 
--[Twitter](https://twitter.com/weaselslap)
+- [Twitter](https://twitter.com/weaselslap)
 
--[link](README.md)
+- [link](README.md)
 
--[blog](https://weaselslap.hatenablog.com)
+- [blog](https://weaselslap.hatenablog.com)
 
 
 # Header 1
