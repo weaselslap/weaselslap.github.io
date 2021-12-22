@@ -11,8 +11,8 @@
 
 
 ## SNS(外部リンク) 
-[<img src="twitter_icon.jpg" width="5%">](https://twitter.com/weaselslap)
-[<img src="instagram_icon.jfif" width="5%">](https://www.instagram.com/weaselslap)
+[<img src="twitter_icon.jpg" width="80">](https://twitter.com/weaselslap)
+[<img src="instagram_icon.jfif" width="80">](https://www.instagram.com/weaselslap)
 
 
 <!-- admax -->
