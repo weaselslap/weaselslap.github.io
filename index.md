@@ -2,7 +2,7 @@
 
 [Twitter](https://twitter.com/weaselslap)
 
-[link]
+[link](weaselslap.github.io/index.md)
 
 ### Markdown
 
