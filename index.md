@@ -16,6 +16,5 @@
 
 
 <!-- admax -->
-<script src="https://adm.shinobi.jp/s/c8032c1cfcc563a5faa8514c79a97a6b"></script>
+<script src="https://adm.shinobi.jp/s/75e718f19519dd1ba312815274e314d4"></script>
 <!-- admax -->
-
