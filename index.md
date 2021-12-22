@@ -4,7 +4,7 @@
 
 [link](README.md)
 
-
+[blog](https://weaselslap.hatenablog.com)
 
 ### Markdown
 
