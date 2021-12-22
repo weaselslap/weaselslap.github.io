@@ -4,7 +4,7 @@
 
 - [Twitter](https://twitter.com/weaselslap)
 
-- [READ ME](README.md)
+- [日記](DIARY.md)
 
 - [blog](https://weaselslap.hatenablog.com)
 
