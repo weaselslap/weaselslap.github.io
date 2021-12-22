@@ -8,6 +8,8 @@
 
 - [blog](https://weaselslap.hatenablog.com)
 
+- [blog archives](archives.md)
+
 
 
 1. Numbered
