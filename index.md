@@ -1,4 +1,4 @@
-## Welcome to weaselslap :wink:
+## Welcome to weaselslap 
 
 ## Link
 
