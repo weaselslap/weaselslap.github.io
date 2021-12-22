@@ -1,4 +1,5 @@
 ## Welcome to weaselslap 
+<link href="css.css" rel="stylesheet"></link>
 
 私のリンク集として。日記として。昔のHPを思い出すなあ～
 
