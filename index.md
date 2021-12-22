@@ -2,7 +2,7 @@
 
 ## Link
 
-- [Twitter](https://twitter.com/weaselslap)
+- <img src="twitter_icon.jpg" width="3%">  [Twitter](https://twitter.com/weaselslap)
 
 - [日記](DIARY.md)
 
