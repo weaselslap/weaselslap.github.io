@@ -14,5 +14,7 @@
 [<img src="twitter_icon.jpg" width="5%">](https://twitter.com/weaselslap)
 
 
-
+<!-- admax -->
+<script src="https://adm.shinobi.jp/s/c8032c1cfcc563a5faa8514c79a97a6b"></script>
+<!-- admax -->
 
