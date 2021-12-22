@@ -1,8 +1,10 @@
 ## Welcome to weaselslap
 
+## Link
+
 - [Twitter](https://twitter.com/weaselslap)
 
-- [link](README.md)
+- [READ ME](README.md)
 
 - [blog](https://weaselslap.hatenablog.com)
 
