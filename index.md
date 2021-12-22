@@ -1,17 +1,11 @@
 ## Welcome to weaselslap
 
-[Twitter](https://twitter.com/weaselslap)
+-[Twitter](https://twitter.com/weaselslap)
 
-[link](README.md)
+-[link](README.md)
 
-[blog](https://weaselslap.hatenablog.com)
+-[blog](https://weaselslap.hatenablog.com)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
