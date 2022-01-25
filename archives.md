@@ -19,4 +19,8 @@
 
 [クッションファンで風カラーワックスの作り方](https://weaselslap.hatenablog.com/entry/2020/02/26/203846)
 
+<!-- admax -->
+<script src="https://adm.shinobi.jp/s/f946238865d77ff9002b2f428a711be5"></script>
+<!-- admax -->
+
 [Top](index.md)
