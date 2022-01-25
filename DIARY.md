@@ -1,4 +1,4 @@
-# weaselslap.github.io
+# weaselslap's diary
 # 2022年
 ## 1月
 ### 1月25日
